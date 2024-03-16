@@ -46,6 +46,8 @@ dependencies {
     implementation ("com.squareup.retrofit2:converter-gson:2.9.0")
     implementation("cn.godmao:room:2.3.4.7.Beat")
     implementation("com.rudderstack.android.integration:firebase:3.1.0")
+    implementation("com.google.firebase:firebase-analytics:21.5.1")
+    implementation("com.google.firebase:firebase-core:21.1.1")
     testImplementation("junit:junit:4.13.2")
     androidTestImplementation("androidx.test.ext:junit:1.1.5")
     androidTestImplementation("androidx.test.espresso:espresso-core:3.5.1")
